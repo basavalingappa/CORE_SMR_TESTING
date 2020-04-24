@@ -1,2 +1,2 @@
 # CORE_SMR_TESTING
-MONTHLY STATUS
+My_new repository
